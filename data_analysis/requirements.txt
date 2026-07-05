@@ -1,0 +1,25 @@
+# Core analysis
+numpy>=1.26,<2
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.3
+
+# Plotting
+matplotlib>=3.8
+seaborn>=0.13
+
+# RQ2 explainability
+shap>=0.44
+
+# RQ2 boosted learners (VATA Table 3)
+lightgbm>=4.0
+xgboost>=2.0
+catboost>=1.2
+
+# Excel I/O (Google Sheets export + table output)
+openpyxl>=3.1
+
+# Jupyter notebooks
+jupyter>=1.0
+ipykernel>=6.29
+ipywidgets>=8.1
